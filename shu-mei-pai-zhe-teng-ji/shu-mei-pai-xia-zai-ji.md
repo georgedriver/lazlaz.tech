@@ -1,10 +1,12 @@
 ---
-description: 树莓派折腾记
+description: 树莓派下载机
 ---
 
-# 树莓派下载机
+# 00 raspberrypi bittorrent box
 
-{% embed url="https://www.bilibili.com/video/av90642253/" %}
+{% embed url="https://www.bilibili.com/video/av90710813/" %}
+
+
 
 ## raspberrypi-bittorrent-box
 
@@ -14,9 +16,9 @@ Turn a Raspberry Pi into an Always-On BitTorrent Box, more info please refer to 
 
 * [树莓派折腾记01：树莓派下载机](https://www.bilibili.com/video/av90710813/)
 * [树莓派折腾记02：为电视提供4K串流服务](https://www.bilibili.com/video/av90862342/)
-  * README:: [Setup home nas for 4k streaming home-nas](./home-nas/README.md)
+  * README:: [Setup home nas for 4k streaming home-nas](https://github.com/georgedriver/lazlaz.tech/tree/d7bad37e54a47299cd2bc4a23bdcdc4a930dcd37/shu-mei-pai-zhe-teng-ji/home-nas/README.md)
 * [树莓派折腾记03：公网访问树莓派的deluge服务](https://www.bilibili.com/video/av91123250/)
-  * README:: [Expose your internal service to the Internet](./expose-service/README.md)
+  * README:: [Expose your internal service to the Internet](https://github.com/georgedriver/lazlaz.tech/tree/d7bad37e54a47299cd2bc4a23bdcdc4a930dcd37/shu-mei-pai-zhe-teng-ji/expose-service/README.md)
 
 ### What do I have
 
@@ -26,9 +28,9 @@ Turn a Raspberry Pi into an Always-On BitTorrent Box, more info please refer to 
 
 * Harddisk \(2TB\) with 2 slot box
 
-![\_](../.gitbook/assets/IMG_4DC09B13FB27-1.jpeg)
+![\_](../.gitbook/assets/img_4dc09b13fb27-1.jpeg)
 
-![\_](../.gitbook/assets/IMG_BD74996A6765-1.jpeg)
+![\_](../.gitbook/assets/img_bd74996a6765-1.jpeg)
 
 ### Steps
 
