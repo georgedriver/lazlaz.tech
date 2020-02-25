@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Content](README.md)
+* [主页\|HOME](README.md)
 
 ## 智能家庭\|INTELLIGENT HOME <a id="zhi-neng-jia-ting"></a>
 
