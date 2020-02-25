@@ -8,7 +8,7 @@ Let's collect your Pi's metrics to Prometheus, and use grafana to show the dashb
 
 ## Home network topology
 
-![](../../.gitbook/assets/collect-metrics.png)
+![](../.gitbook/assets/collect-metrics.png)
 
 ## What do I have
 
@@ -61,5 +61,7 @@ Reboot the Pi and the process should be there.
 
 Recommend this solution: [https://github.com/tobbez/deluge\_exporter](https://github.com/tobbez/deluge_exporter)
 
+#### The only issue I met, that the node\_exporter can not collect the temperature from pi
 
+* The solution will be added soon...
 
