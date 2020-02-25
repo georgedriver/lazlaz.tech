@@ -10,4 +10,4 @@
 
 * [树莓派下载机](shu-mei-pai-zhe-teng-ji/shu-mei-pai-xia-zai-ji.md)
 
-* [为电视提供4K串流服务](wei-dian-shi-ti-gong-4k-chuan-liu-fu-wu.md)
+* [为电视提供4K串流服务](shu-mei-pai-zhe-teng-ji/wei-dian-shi-ti-gong-4k-chuan-liu-fu-wu.md)
