@@ -4,6 +4,8 @@ description: 树莓派折腾记
 
 # 树莓派下载机
 
+{% embed url="https://www.bilibili.com/video/av90642253/" %}
+
 ## raspberrypi-bittorrent-box
 
 Turn a Raspberry Pi into an Always-On BitTorrent Box, more info please refer to [How to Turn a Raspberry Pi into an Always-On BitTorrent Box](https://www.howtogeek.com/142044/how-to-turn-a-raspberry-pi-into-an-always-on-bittorrent-box/)
