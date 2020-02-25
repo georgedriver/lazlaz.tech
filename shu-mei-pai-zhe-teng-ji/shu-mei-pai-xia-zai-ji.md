@@ -24,9 +24,9 @@ Turn a Raspberry Pi into an Always-On BitTorrent Box, more info please refer to 
 
 * Harddisk \(2TB\) with 2 slot box
 
-![\_](./img/IMG_4DC09B13FB27-1.jpeg)
+![\_](../.gitbook/assets/IMG_4DC09B13FB27-1.jpeg)
 
-![\_](./img/IMG_BD74996A6765-1.jpeg)
+![\_](../.gitbook/assets/IMG_BD74996A6765-1.jpeg)
 
 ### Steps
 
