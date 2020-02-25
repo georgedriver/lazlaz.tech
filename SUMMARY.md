@@ -6,3 +6,7 @@
 
 * [英伟达电视盒子shield TV投屏到电脑](zhi-neng-jia-ting/ying-wei-da-dian-shi-he-zi-shield-tv-tou-ping-dao-dian-nao.md)
 
+## 树莓派折腾记
+
+* [树莓派下载机](shu-mei-pai-zhe-teng-ji/shu-mei-pai-xia-zai-ji.md)
+
