@@ -1,6 +1,6 @@
 # Table of contents
 
-* [目录](README.md)
+* [Content](README.md)
 
 ## 智能家庭
 
