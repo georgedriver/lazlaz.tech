@@ -13,3 +13,7 @@
 * [02 access deluge service out of home network](shu-mei-pai-zhe-teng-ji/expose-service.md)
 * [03 collect metrics](shu-mei-pai-zhe-teng-ji/collect-metrics.md)
 
+## 主子不喜欢\|my cat doesn't like it
+
+* [只有“狂暴模式”的玩具车开箱](zhu-zi-bu-xi-huan-my-cat-doesnt-like-it/zhi-you-kuang-bao-mo-shi-de-wan-ju-che-kai-xiang.md)
+
