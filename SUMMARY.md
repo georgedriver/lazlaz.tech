@@ -4,7 +4,7 @@
 
 ## 智能家庭\|INTELLIGENT HOME <a id="zhi-neng-jia-ting"></a>
 
-* [英伟达电视盒子shield TV投屏到电脑](zhi-neng-jia-ting/ying-wei-da-dian-shi-he-zi-shield-tv-tou-ping-dao-dian-nao.md)
+* [NVIDIA shield TV airplay mirror to macos](zhi-neng-jia-ting/ying-wei-da-dian-shi-he-zi-shield-tv-tou-ping-dao-dian-nao.md)
 
 ## 树莓派折腾记\|Best Practice with Raspberry Pi <a id="shu-mei-pai-zhe-teng-ji"></a>
 
