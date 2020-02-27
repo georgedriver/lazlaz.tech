@@ -22,6 +22,7 @@ Always consider to have a more secure way to set your sensitive environment in y
 * Keychain Access
 * `security` command
 * TouchID
+* [https://apple.stackexchange.com/questions/311334/replace-password-prompt-with-touch-id-to-read-keychain-password](https://apple.stackexchange.com/questions/311334/replace-password-prompt-with-touch-id-to-read-keychain-password)
 
 ### Notification with iTerm "triggers"
 
