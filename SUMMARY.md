@@ -19,3 +19,7 @@
 
 * [只有“狂暴模式”的玩具车开箱](zhu-zi-bu-xi-huan-my-cat-doesnt-like-it/zhi-you-kuang-bao-mo-shi-de-wan-ju-che-kai-xiang.md)
 
+## Mac软件推荐\|Best Mac Apps
+
+* [iTerm2 + Oh My Zsh](mac-ruan-jian-tui-jian-best-mac-apps/iterm2-+-oh-my-zsh.md)
+
