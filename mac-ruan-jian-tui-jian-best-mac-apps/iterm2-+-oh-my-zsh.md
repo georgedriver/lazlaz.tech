@@ -38,7 +38,15 @@ It looks like this
 
 A cd command that learns - easily navigate directories from the command line
 
+![Demo](../.gitbook/assets/kapture-2020-02-28-at-10.17.26.gif)
 
+### zsh-completions
+
+[zsh-completions](https://github.com/zsh-users/zsh-completions)
+
+Additional completion definitions for Zsh.
+
+![Demo](../.gitbook/assets/kapture-2020-02-28-at-10.19.54.gif)
 
 ### Other recommended software
 
