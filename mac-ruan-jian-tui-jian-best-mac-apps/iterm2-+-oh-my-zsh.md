@@ -32,5 +32,93 @@ It looks like this
 
 ![We can identify the &quot;keywords&quot; from the trigger settings.](../.gitbook/assets/image%20%282%29.png)
 
+### Autojump
 
+[autojump](https://github.com/wting/autojump)
+
+A cd command that learns - easily navigate directories from the command line
+
+
+
+### Other recommended software
+
+```bash
+# Just in case of GFW
+export all_proxy=127.0.0.1:7890
+
+xcode-select --install
+brew install gcc
+brew install libuv
+brew install zsh zsh-completions autojump zsh-syntax-highlighting
+
+brew install wireshark --with-qt
+brew cask install wireshark
+brew install postgresql
+brew tap theory/sqitch
+brew install sqitch_pg
+brew install sqitch --with-postgres-support
+brew install wget
+brew cask install visual-studio-code
+brew cask install iterm2
+brew cask install appcleaner
+brew install caskroom/cask/brew-cask
+# brew tap caskroom/versions
+brew cask install sublime-text
+brew tap homebrew/cask-fonts
+brew cask install font-inconsolata font-menlo-for-powerline font-meslo-for-powerline
+#brew install terraform
+brew install tfenv
+tfenv install 0.12.7
+brew install packer
+brew install ansible
+brew cask install virtualbox
+brew cask install vagrant
+brew cask install vagrant-manager
+vagrant plugin install vagrant-vbguest
+vagrant vbguest
+
+brew cask install typora
+brew cask install github
+brew install autossh
+brew install jq
+brew install gnu-sed
+brew install mysql
+brew install pre-commit
+brew install certbot
+brew install tig
+
+brew cask install dash
+brew cask install shortcat
+brew cask install google-cloud-sdk
+brew cask install docker
+brew cask install google-chrome
+brew cask install firefox
+
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json webpquicklook suspicious-package quicklookase qlvideo
+
+brew install sonar-scanner
+
+# web debugging app
+brew cask install charles
+brew cask install chromedriver
+brew install telnet
+
+# Graph
+brew install graphviz
+
+# Lock Mac without turning off the screen
+brew cask install keepingyouawake
+
+brew install grpcurl
+
+# Converter
+brew cask install handbrake
+
+# CNCF
+brew install kubernetes-helm
+https://docs.docker.com/docker-for-mac/
+
+# For record
+brew cask install keycastr
+```
 
