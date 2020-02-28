@@ -26,6 +26,14 @@ sudo /home/pi/clash/clash-linux-armv7 -d /home/pi/.config/clash/
 ```
 {% endcode %}
 
+## Make it start on system boot
+
+Append below line into "/etc/rc.local"
+
+```text
+nohup /home/pi/clash/clash-linux-armv7 -d /home/pi/.config/clash >> /tmp/output.log 2>&1  </dev/null
+```
+
 ## Dashboard
 
 {% embed url="https://hub.docker.com/r/hitian/clash-dashboard" %}
