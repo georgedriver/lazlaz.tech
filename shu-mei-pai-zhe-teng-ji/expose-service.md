@@ -10,7 +10,7 @@ Let's expose your Deluge service on Raspberry Pi to the Internet
 
 ## Home network topology
 
-![port-forward](../.gitbook/assets/home-network.png)
+![port-forward](../.gitbook/assets/home-network%20%281%29.png)
 
 ## What do I have
 

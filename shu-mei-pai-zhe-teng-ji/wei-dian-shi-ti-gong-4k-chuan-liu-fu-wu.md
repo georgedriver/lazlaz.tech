@@ -10,7 +10,7 @@ description: 为电视提供4K串流服务
 
 ## Home network topology
 
-![home-network](../.gitbook/assets/home-network.png)
+![home-network](../.gitbook/assets/home-network%20%281%29.png)
 
 ## What do I have
 

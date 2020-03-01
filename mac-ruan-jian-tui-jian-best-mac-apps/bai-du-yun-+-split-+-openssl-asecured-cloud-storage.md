@@ -1,5 +1,7 @@
 # 百度云 + split + openssl = A secured cloud storage
 
+![](../.gitbook/assets/home-network.png)
+
 I'm going to share how I backup my massive important personal files &gt; 100GB \(like Photos libraries, documents, etc\) into free cloud storage, we're using Baidu Cloud as an example.
 
 The purpose of the cloud backup is to make sure I have a redundant copies of my VERY important files are stored also in cloud.
