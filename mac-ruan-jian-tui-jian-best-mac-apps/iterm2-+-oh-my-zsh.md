@@ -26,11 +26,11 @@ Always consider to have a more secure way to set your sensitive environment in y
 
 ### Notification with iTerm "triggers"
 
-![My Triggers settings](../.gitbook/assets/image.png)
+![My Triggers settings](../.gitbook/assets/image%20%281%29.png)
 
 It looks like this
 
-![We can identify the &quot;keywords&quot; from the trigger settings.](../.gitbook/assets/image%20%283%29.png)
+![We can identify the &quot;keywords&quot; from the trigger settings.](../.gitbook/assets/image%20%284%29.png)
 
 ### Autojump
 
