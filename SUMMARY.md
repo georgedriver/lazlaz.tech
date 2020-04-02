@@ -15,6 +15,7 @@
 * [04 Video Streaming with Raspberry Pi Camera](shu-mei-pai-zhe-teng-ji/04-video-streaming-with-raspberry-pi-camera.md)
 * [Install Docker on Raspberry Pi](shu-mei-pai-zhe-teng-ji/install-docker-on-raspberry-pi.md)
 * [Install Clash & Dashboard on Raspberry Pi](shu-mei-pai-zhe-teng-ji/install-clash-and-dashboard-on-raspberry-pi.md)
+* [Install go \(golang\) on Raspbian](shu-mei-pai-zhe-teng-ji/install-go-golang-on-raspbian.md)
 
 ## 主子不喜欢\|my cat doesn't like it
 
