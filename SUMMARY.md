@@ -27,3 +27,7 @@
 * [百度云 + split + openssl = A secured cloud storage](mac-ruan-jian-tui-jian-best-mac-apps/bai-du-yun-+-split-+-openssl-asecured-cloud-storage.md)
 * [Remote Desktop on Mac](mac-ruan-jian-tui-jian-best-mac-apps/remote-desktop-on-mac.md)
 
+## Ubuntu
+
+* [00 OS Installation](ubuntu/00-os-installation.md)
+
