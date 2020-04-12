@@ -1,6 +1,6 @@
 # 04 Video Streaming with Raspberry Pi Camera
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/screen-shot-2020-04-12-at-9.34.49-pm.png)
 
 Using raspberry Pi + camera module, turn it to a "Video Streaming Camera". We can even set up our Macos' background with the streaming service.
 
