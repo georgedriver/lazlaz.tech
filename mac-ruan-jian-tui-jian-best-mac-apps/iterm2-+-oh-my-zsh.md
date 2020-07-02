@@ -30,7 +30,7 @@ Always consider to have a more secure way to set your sensitive environment in y
 
 It looks like this
 
-![We can identify the &quot;keywords&quot; from the trigger settings.](../.gitbook/assets/image%20%286%29.png)
+![We can identify the &quot;keywords&quot; from the trigger settings.](../.gitbook/assets/image%20%282%29%20%281%29.png)
 
 ### Autojump
 

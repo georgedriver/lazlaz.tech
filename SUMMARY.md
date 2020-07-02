@@ -31,3 +31,11 @@
 
 * [00 OS Installation](ubuntu/00-os-installation.md)
 
+## KUBERNETES FOR HOME
+
+* [00 Goals](kubernetes-for-home/00-goals-for-kubernetes-for-home.md)
+* [01 The infrastructure](kubernetes-for-home/01-the-infrastructure.md)
+* [02 Enable Kubernetes on "Docker for Mac"](kubernetes-for-home/02-enable-kubernetes-on-docker-for-mac.md)
+* [k8s-bundle - overall introduction](kubernetes-for-home/k8s-bundle.md)
+* [k8s-bundle - NGINX Ingress](kubernetes-for-home/k8s-bundle-nginx-ingress.md)
+
