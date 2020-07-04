@@ -29,5 +29,9 @@ _See more in the GitHub repo_ [_**k8s-bundle**_](https://github.com/georgedriver
 | **kubernetes.io/ingress.class** | `nginx` |
 | **cert-manager.io/cluster-issuer** | `letsencrypt-prod` |
 
-## 
+## Costs
+
+The main cost for our own Kubernetes cluster should be the energy charge. Here's the summary of my energy usage for my Macmini.
+
+![Energy costs by Daily vs Weekly](../.gitbook/assets/image%20%2823%29.png)
 
