@@ -18,7 +18,7 @@ _See more in the GitHub repo_ [_**k8s-bundle**_](https://github.com/georgedriver
 
 | K | V |
 | :--- | :--- |
-| **Codename** | `k8s-macmini` |
+| **Codename** | `k8s-mirana` |
 | **Provider** | `docker-for-mac` |
 | **Location** | cn-shanghai |
 | **Environment** | dev |
