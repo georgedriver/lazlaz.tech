@@ -32,20 +32,11 @@ Or just using my docker image [k8s-tools](https://github.com/georgedriver/devops
 git clone https://github.com/georgedriver/k8s-bundle.git
 ```
 
-* Modify the `environments/k8s-mirana.yaml.gotmpl` file to enable the applications you want to install to your Kubernetes
-
-{% hint style="danger" %}
-The `mirana` is just a code name for my Kuberentes, you can use it or change it to another name, please check [the PR](https://github.com/georgedriver/k8s-bundle/pull/1/files) about the helmfile skeleton with first helm chart installed.
-{% endhint %}
-
-* Run the helmfile commands in `k8s-tools`
+* `make install`
 
 ```text
 cd k8s-bundle
-docker run -it -v $PWD:/code -v /Users/`whoami`/.kube/config:/root/.kube/config georgedriver/k8s-tools:latest bash
-cd /code
-helmfile -e k8s-mirana diff
-helmfile -e k8s-mirana sync
+make install
 ```
 
 Please check more about helmfile from its [GitHub repo](https://github.com/roboll/helmfile#cli-reference).
@@ -66,7 +57,8 @@ k8s-bundle
 ├── CHANGELOG.md
 ├── README.md
 ├── environments
-│   └── k8s-mirana.yaml.gotmpl
+│   └── dev.yaml.gotmpl
+│   └── prod.yaml.gotmpl
 ├── helmfile.yaml
 └── values
 ```
