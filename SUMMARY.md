@@ -27,9 +27,10 @@
 * [百度云 + split + openssl = A secured cloud storage](mac-ruan-jian-tui-jian-best-mac-apps/bai-du-yun-+-split-+-openssl-asecured-cloud-storage.md)
 * [Remote Desktop on Mac](mac-ruan-jian-tui-jian-best-mac-apps/remote-desktop-on-mac.md)
 
-## Ubuntu
+## Homelab
 
-* [00 OS Installation](ubuntu/00-os-installation.md)
+* [00 OS Installation](homelab/00-os-installation.md)
+* [01 Homelab v2 \(2021\)](homelab/01-homelab-v2-2021.md)
 
 ## KUBERNETES FOR HOME
 
